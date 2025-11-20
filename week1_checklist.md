@@ -22,7 +22,7 @@
 
 ## ➡️ Next Steps
 - [x] Loops & iteration (`for`, `while`)
-- [ ] Functions (`def`) & return values
+- [x] Functions (`def`) & return values
 - [ ] More Practice scripts for Week 1
 - [ ] Git branching / feature workflow
 - [ ] Document notes in `notes/week1/`
