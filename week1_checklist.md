@@ -21,7 +21,7 @@
 - [x] Verify files visible on GitHub
 
 ## ➡️ Next Steps
-- [ ] Loops & iteration (`for`, `while`)
+- [x] Loops & iteration (`for`, `while`)
 - [ ] Functions (`def`) & return values
 - [ ] More Practice scripts for Week 1
 - [ ] Git branching / feature workflow
